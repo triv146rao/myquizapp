@@ -1,0 +1,47 @@
+<resources>
+
+    <string name="app_name">Quizzr | HOW SMART ARE YOU?</string>
+
+    <string name="correct"><b>YOUR SCORE IS</b> \n
+
+                           <b>%1$d</b> OUT OF 6</string>
+
+    <string name="true_text">true</string>
+
+    <string name="false_text">false</string>
+
+    <string name="correct_answer">That\'s correct</string>
+
+    <string name="wrong_answer">That\'s incorrect</string>
+
+    <string name="a">Russia is the largest country in the world.</string>
+
+    <string name="b">Arachnophobia is the fear of insects</string>
+
+    <string name="c">Ankara is the capital of <b>\tTurkey</b></string>
+
+    <string name="d">War and Peace was written by<b> Leo Tolstoy</b></string>
+
+    <string name="e">World War 1 started in 1914</string>
+
+    <string name="f">Cloe Zhao was the first woman director to win an Oscar</string>
+    <string name="g">The Vatican is the smallest country in the world.</string>
+
+    <string name="h">The Mariana Trench is not the deepest location on Earth</string>
+
+    <string name="i">Budapest is XYZthe capital of:\t<b>Hungary</b></string>
+
+    <string name="j">Anna Karenina was written by<b> Leo Tolstoy</b></string>
+    <string name="k">Jojo Rabbit was directed by<b> Taika Watiti</b></string>
+    <string name="l">A sphygmomanometer is used to measure blood pressure</string>
+
+    <string name="next_text">Next</string>
+
+    <string name="prev_text">Previous</string>
+    <string name="log_name">Quizzr Login Form</string>
+
+    <string name="login_form_title">Login</string>
+    <string name="login_form_username">Username</string>
+    <string name="login_form_password">Password</string>
+    <string name="login_form_login">LOGIN</string>
+</resources>
